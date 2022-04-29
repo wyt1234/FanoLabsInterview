@@ -1,0 +1,6 @@
+Once the file-reading is completed, your program should output the EXACT (not
+approximate) the top k most frequent words. In case there are ties in terms of word
+frequencies, return all.
+oximate) the top k most frequent words. In case there are ties in terms of word
+frequencies, return all.
+Once the
